@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your Binance Market Data project. This file provides an overview of the project, its features, installation instructions, usage, and any necessary information for contributors.
 
-```markdown
 # Binance Market Data
 
 A React application that displays real-time cryptocurrency market data using the Binance API. Users can view candlestick charts for various cryptocurrencies, switch between different time intervals, and export the data as a CSV file for further analysis.
@@ -28,7 +26,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/binance-market-data.git
+   git clone https://github.com/Tarunchowdam/binance-market-data.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -77,9 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://reactjs.org/) and [Chart.js](https://www.chartjs.org/) for the frontend framework and charting library, respectively.
 ```
 
-### Notes:
-- **Replace `your-username`** with your actual GitHub username in the clone URL.
-- Make sure to add a `LICENSE` file to your project if you specify a license in the README.
-- Customize any section according to your preferences or additional details specific to your project.
-
-Feel free to modify this README as needed to better fit your project's needs! If you have any further questions or need additional assistance, let me know!
